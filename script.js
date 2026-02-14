@@ -57,7 +57,7 @@ const messages = [
     "Sicher?",
     "Ernsthaaaft??",
     "Wow... das hätt ich mich nicht getraut.",
-    "Schaaaaaaatz... :o", 
+    "Schaaaaaaatz...", 
     "Denk nochmal nach!",
     "Du würdest mich traurig machen...",
     "Felix traurig...",
