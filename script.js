@@ -60,7 +60,7 @@ const messages = [
     "Schaaaaaaatz...", 
     "Denk nochmal nach!",
     "Du würdest mich traurig machen...",
-    "Felix traurig...",
+    "Matthias traurig...",
     "Dann wäre ich seeeehr traurig...",
     "Ok dann frag ich dich halt nicht...",
     "Spaß! Bittteeeeeeeee ❤️"
